@@ -1,4 +1,4 @@
-# Nox Ignition
+# Nocturnal Ignition
 
 **Automated Solana Token Due Diligence Engine** — Telegram bot + public channel for real-time token analysis, smart wallet intelligence, and ML-powered signal filtering.
 
@@ -10,7 +10,7 @@ Built for the Solana ecosystem. Powering [nocturnal.xyz](https://nocturnal.xyz).
 
 ## What It Does
 
-Nox Ignition monitors token migrations from launchpads (PumpFun, BAGS, BonkFun) to DEX liquidity pools, performs multi-layered due diligence, and posts actionable alerts to a Telegram channel. Every token passes through a gauntlet of on-chain analysis, social intelligence, smart wallet conviction checks, historical pattern matching, and machine learning prediction before reaching users.
+Nocturnal Ignition monitors token migrations from launchpads (PumpFun, BAGS, BonkFun) to DEX liquidity pools, performs multi-layered due diligence, and posts actionable alerts to a Telegram channel. Every token passes through a gauntlet of on-chain analysis, social intelligence, smart wallet conviction checks, historical pattern matching, and machine learning prediction before reaching users.
 
 ### Core Pipeline
 
