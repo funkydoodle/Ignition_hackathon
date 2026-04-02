@@ -1,5 +1,5 @@
 /**
- * Nox Ignition — DD Pipeline (Showcase)
+ * Nocturnal Ignition — DD Pipeline (Showcase)
  *
  * This is a simplified, annotated walkthrough of the full due diligence pipeline.
  * It shows the real flow from token discovery to alert posting.

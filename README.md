@@ -181,19 +181,30 @@ ML-filtered strategies convert a losing baseline into consistently profitable si
 ## Example Alert Output
 
 ```
-NEW CALL [Fresh Token]: $GIGABRAIN (7xKp...4mN2)
+☾ NIGHT CALL : $GIGABRAIN (7xKp...4mN2)
 
-MC: $1.2M | Vol (24h): $2.8M | Liq: $45.0K
-Holders: 1,847 | Top 10: 28.5%
-Dex: Paid
-Migrated: 45min ago from PumpFun
+📊 Market Data
+• MC: $1.2M
+• Volume (24h): $2.8M
+• Liquidity: $45.0K
+• Holders: 1,847
+• Top 10 Holders: 29%
+• Trades (1h): 3,412 buys / 2,156 sells 🟢 Bullish
+• Migrated: 45m
+• Global Fees: 42.17 SOL
 
-Context: AI agent meme, built on ai16z framework, active GitHub
+🔬 On-Chain Analysis
+• RugCheck: 12/100
+• Deployer 👤 5 launches | runner 60% | rug 20%
+• Smart Wallets Holding: 7
+  T1: 3 | T2: 2 | T3: 2
+• Bundle: 47 wallets | 8.2% supply
+• 🟢 Nansen Smart Money Inflow: +$12.4K 1h (3 wallets)
 
-Risk: GREEN
-Smart wallets: 7 holding
+📖 Lore: AI agent meme built on ai16z framework. Active GitHub,
+strong community engagement, trending topic match on X.
 
-Trade on Nocturnal
+🔥 Trade on Nocturnal
 ```
 
 ---
